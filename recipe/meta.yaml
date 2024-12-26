@@ -49,7 +49,7 @@ requirements:
     - cairo
     - libpng
     - libtiff
-    - libzlib
+    - zlib
   run:
     - r-base
     - r-cpp11 >=0.2.4
