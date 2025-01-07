@@ -36,7 +36,7 @@ index a93f69f..c61722f 100644
 -
 -clean:
 -	rm -f $(OBJECTS)
-+PKG_LIBS = -lcairo -ltiffxx -ltiff
++PKG_LIBS = -lcairo -ltiffxx -ltiff -lpng -lz
 -- 
 2.47.1
 
